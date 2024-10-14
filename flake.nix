@@ -3,7 +3,9 @@
 
   inputs = {
     flake-parts.url = "github:hercules-ci/flake-parts";
-    nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
+    #nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
+    nixpkgs.url = "github:nim65s/nixpkgs/qt6-libqglviewer";
+    #nixpkgs.url = "/local/users/gsaurel/NixOS/nixpkgs";
   };
 
   outputs =
