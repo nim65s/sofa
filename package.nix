@@ -7,13 +7,11 @@
   glew,
   gtest,
   lib,
-  libgtk-3,
   qt6Packages,
   libGL,
   metis,
   stdenv,
   tinyxml-2,
-  xorg,
   zlib,
 }:
 
